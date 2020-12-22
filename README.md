@@ -4,4 +4,4 @@ A clean web game that lets two players play that is built with JavaScript, HTML 
 
 ## Live Demo
 
-Check it out [here]()
+Check it out [here](https://dagmawi-beyene.github.io/tic-tac-toe/)
